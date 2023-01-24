@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#rsa factoring challenge
 
 check_factor()
 {
